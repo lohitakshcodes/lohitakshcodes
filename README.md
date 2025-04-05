@@ -1,19 +1,18 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Lohitaksh Bisen</h1>
 
 <p align="center">
-🎓 Student at [Your College Name] <br>
+🎓 Student at MIT-WPU Pune <br>
 💻 Aspiring Developer & Open Source Enthusiast <br>
 🚀 Currently exploring Web Dev, AI & Open Source <br>
-📬 Reach me: [your email] · [LinkedIn](your-linkedin-url) · [Portfolio Website](your-site-url)
+📬 Reach me: lohitakshbisen@gmail.com · [LinkedIn](https://www.linkedin.com/in/lohitaksh-bisen-1ba3b7216/) · [Portfolio Website](your-site-url)
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 I'm currently studying at **[Your College Name]**  
 - 🌱 I'm learning **React**, **Flask**, and **Machine Learning**
-- 💡 I'm interested in **Open Source Contributions**, **Hackathons**, and building cool projects!
-- 💼 Currently working on: [Optional current project or learning goal]
+- 💡 I'm interested in **Open Source Contributions**, **Hackathons**,**Competitive Programming** and building cool projects!
+- 💼 Currently working on: NA
 - 📫 How to reach me: [email / socials]
 
 ---
