@@ -20,7 +20,8 @@
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge
-
+### LinkedIn
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!--
 **lohitakshcodes/lohitakshcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
