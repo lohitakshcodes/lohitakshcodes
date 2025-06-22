@@ -19,21 +19,6 @@
 
 ---
 
-## 📊 My Progress
-
-### 📚 DSA Progress: NeetCode 150
-
-* Arrays & Hashing: ![Progress](https://progress-bar.dev/30/?title=Completed)
-* Two Pointers: ![Progress](https://progress-bar.dev/20/?title=In%20Progress)
-* Trees: ![Progress](https://progress-bar.dev/10/?title=Started)
-
-### 🌐 Web Development: Full Stack Open
-
-* React Basics: ![Progress](https://progress-bar.dev/80/?title=In%20Progress)
-* Node.js & Express: ![Progress](https://progress-bar.dev/20/?title=Started)
-
----
-
 ## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lohitakshbisen?ext=contest)](https://leetcode.com/lohitakshbisen)
