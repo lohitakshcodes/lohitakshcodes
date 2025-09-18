@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **React**, **Flask**, **Machine Learning**, **DSA**, and **C++ Problem Solving**
-* 💡 Passionate about **Open Source**, **Hackathons**, **Competitive Programming**, and building impactful projects
-* 💼 Working on: **Shopit (Personal Project)** and solving **NeetCode 150**
-* 📂 DSA solutions and web development projects available in my repositories
+* 🌱 Currently learning **React**, **Flask**, **Machine Learning**, **DSA**, and **Java Problem Solving**
+* 💡 Passionate about **Open Source**, **Hackathons**, **Development**, and building impactful projects
+* 💼 Working on: **MIT-WPU ERP (College Project)** and solving **Strivers Sheet**
+* 📂 ML and Web development projects available in my repositories
 * 📨 How to reach me: [lohitakshbisen@gmail.com](mailto:lohitakshbisen@gmail.com)
 
 ---
