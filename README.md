@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lohitakshbisen?ext=contest)](https://leetcode.com/lohitakshbisen)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
