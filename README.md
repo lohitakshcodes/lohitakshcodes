@@ -50,8 +50,7 @@
 
 | Organization / Repository | Focus Area | Impact / Contribution |
 | :--- | :--- | :--- |
-| *Target Org (e.g., Zulip)* | Frontend State Management | Optimized query re-renders across core components. |
-| *Target Org (e.g., Swift)* | Developer Tooling Utilities | Fixed diagnostic logging configurations under Linux runtimes. |
+|  |
 
 ---
 
